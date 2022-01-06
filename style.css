@@ -242,6 +242,7 @@ header .menu {
 .works .box-container .box__img img {
   width: 80%;
   height: 80%;
+  object-fit: cover;
 }
 
 .works .box-container .box h1 {
